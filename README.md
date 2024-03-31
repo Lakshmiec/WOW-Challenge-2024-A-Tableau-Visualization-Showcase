@@ -14,8 +14,7 @@ The visualization is a stacked bar chart showing the distribution of sales by sh
 
 ## Screenshots:
 
-[Tableau Visualisation Link](https://public.tableau.com/views/WOW2024W12-PlayingWithStacks/Option1_?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link))
-)
+[Tableau Visualisation Link](https://public.tableau.com/views/WOW2024W12-PlayingWithStacks/Option1_?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 
 ## Dataset Release Date:

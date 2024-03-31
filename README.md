@@ -13,8 +13,8 @@ The dataset used here is related to sales orders and contains various fields tha
 The visualization is a stacked bar chart showing the distribution of sales by ship mode over the months of 2024. Each bar represents a month, with segments stacked on top of each other representing different ship modes. The key elements of the chart include stacked bars, tooltips displaying detailed information, labels for the x-axis and y-axis, colored bars representing ship modes, values displaying total sales for each month, a drop-down menu for selecting and sorting ship modes, a hover menu for highlighting ship modes, and a line chart showing the trend in total sales for selected ship modes.
 
 ## Screenshots:
-![Visualization]( https://public.tableau.com/views/WOW2024W12-PlayingWithStacks/Option1_?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
-[Link Text](https://public.tableau.com/views/WOW2024W12-PlayingWithStacks/Option1_?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link))
+
+[Tableau Visualisation Link](https://public.tableau.com/views/WOW2024W12-PlayingWithStacks/Option1_?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link))
 )
 
 

@@ -1,6 +1,6 @@
 
 # WOW Challenge 2024 - Tableau Stacked Bar Chart Visualization
-
+### Inspiration : https://public.tableau.com/views/WOW202412PlayingwithStacks/Combo?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 ## Challenge Description:
 The challenge involves creating a stacked bar chart in Tableau based on the Workout Wednesday challenge #WOW2024 Week 12. The dataset provided is Superstore data. The task is to create a visualization (stacked bar chart) filtered to 2024, split by ship mode, and stacked by month, while also adding total month values. Three different options for creating the visualization are provided: using the analytics pane, using a dual axis, and using dynamic sorting.
@@ -13,8 +13,7 @@ The visualization is a stacked bar chart showing the distribution of sales by sh
 
 ## Screenshots:
 ![Visualization](`Link` : https://public.tableau.com/views/WOW2024W12-PlayingWithStacks/Option1_?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
-# WOW Challenge 2024 - Tableau Stacked Bar Chart Visualization
-)
+
 
 ## Dataset Release Date:
 19 March 2024
